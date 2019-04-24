@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48f83471-e5af-4e28-93ee-cee82bb60ad6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lesson2/lesson2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/src/DZ2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/src/DZ2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/module1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/DZ3/DZ31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/DZ3/DZ32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/DZ3/DZ33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/DZ3/DZ34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/my/auto/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/src/my/auto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/src/my/console/ConsoleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/src/my/console/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/src/by/photomat/Banknote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/src/by/photomat/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/src/by/photomat/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/src/by/photomat/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/module1/module1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/module1/src/by/it/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/module1/src/by/it/akademy/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/module1/src/by/online/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/module2/module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/module2/src/by/pvt/string/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson6/module2/src/by/pvt/string/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW" beforeDir="false" afterPath="$PROJECT_DIR$/../HW" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5/Lesson5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5/hs_err_pid3148.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5/out/production/Lesson5/META-INF/Lesson5.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5/src/lesson4/Dustbin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5/src/lesson4/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4.1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4.1/lesson4.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4.1/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4.1/src/task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4.1/src/task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4/.idea/lesson4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4/src/lesson4/Task1" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/my/auto/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/my/auto/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module2/src/my/console/Example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/DZ3/DZ31.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/DZ3/DZ32.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/DZ3/DZ33.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module1/src/DZ3/DZ34.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-20" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module2/src/my/console/ConsoleExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/module1/src/my/auto/Console.java" />
+        <option value="$PROJECT_DIR$/module1/src/my/auto/Car.java" />
+        <option value="$PROJECT_DIR$/module1/src/my/auto/Main.java" />
+        <option value="$PROJECT_DIR$/module2/src/my/console/Example.java" />
+        <option value="$PROJECT_DIR$/module1/src/DZ3/DZ31.java" />
+        <option value="$PROJECT_DIR$/module1/src/DZ3/DZ32.java" />
+        <option value="$PROJECT_DIR$/module2/src/my/console/ConsoleExample.java" />
+        <option value="$PROJECT_DIR$/module1/src/DZ3/qqq.java" />
+        <option value="$PROJECT_DIR$/module1/src/DZ3/DZ33.java" />
+        <option value="$PROJECT_DIR$/module1/src/DZ3/DZ34.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="20" />
+    <option name="width" value="1285" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DZ3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="module2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DZ34">
+    <configuration name="ConsoleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.console.ConsoleExample" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DZ32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ3.DZ32" />
+      <module name="module1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DZ33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ3.DZ33" />
+      <module name="module1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DZ34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ3.DZ34" />
+      <module name="module1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="qqq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ3.qqq" />
+      <module name="module1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DZ34" />
+        <item itemvalue="Application.DZ33" />
+        <item itemvalue="Application.ConsoleExample" />
+        <item itemvalue="Application.qqq" />
+        <item itemvalue="Application.DZ32" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48f83471-e5af-4e28-93ee-cee82bb60ad6" name="Default Changelist" comment="" />
+      <created>1555864979748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555864979748</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="20" width="1285" height="688" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25756338" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32851985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32851985" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/module1/src/my/auto/Console.java" />
+    <entry file="file://$PROJECT_DIR$/module2/src/my/console/Console.java" />
+    <entry file="file://$PROJECT_DIR$/module1/src/DZ3/qqq.java" />
+    <entry file="file://$PROJECT_DIR$/module1/src/my/auto/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2/src/my/console/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/DZ3/DZ31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2/src/my/console/ConsoleExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/DZ3/DZ32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/my/auto/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/DZ3/DZ33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/DZ3/DZ34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
